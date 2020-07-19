@@ -1,0 +1,12 @@
+{
+  "name": "banco-desafio-app-rn",
+  "displayName": "banco-desafio-app-rn",
+  "expo": {
+    "name": "banco-desafio-app-rn",
+    "slug": "banco-desafio-app-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
